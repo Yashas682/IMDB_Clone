@@ -36,4 +36,13 @@ These instructions will get you a copy of the project up and running on your loc
 - CSS
 - JavaScript
 
+LINKS:
+
+    Video Link-
+        
+
+    Hosted URL-  
+           https://yashas682.github.io/IMDB_Clone/
+
+
 
