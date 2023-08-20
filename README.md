@@ -45,5 +45,8 @@ These instructions will get you a copy of the project up and running on your loc
     Hosted URL-  
            https://yashas682.github.io/IMDB_Clone/
 
+## User Interface:
+![IMDB (2)](https://github.com/Yashas682/Stopwatch_Project/assets/91604926/1753ebc3-2b55-4d1c-9905-cb734c641153)
+
 
 
